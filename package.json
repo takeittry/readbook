@@ -2,7 +2,7 @@
   "name": "vue-redbk",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "",
+  "author": "17356001544@163.com",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

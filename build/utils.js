@@ -8,7 +8,6 @@ exports.assetsPath = function (_path) {
     : config.dev.assetsSubDirectory
   return path.posix.join(assetsSubDirectory, _path)
 }
-
 exports.cssLoaders = function (options) {
   options = options || {}
 
