@@ -16,7 +16,6 @@ Vue.use(Router)
 
 export default new Router({
   linkActiveClass: 'active',
-  // mode: 'history',    //该模式下没有 # 前缀
   routes: [
     {
       path: '/',
